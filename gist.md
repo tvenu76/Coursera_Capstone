@@ -1,1 +1,1 @@
-{% gist "https://gist.github.com/tvenu76/22e1f1927d9dbfb84d8026b619337647.js" %}
+{% gist "https://gist.github.com/tvenu76/ae610d9372f1b6957469172f8f253660" %}
